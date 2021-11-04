@@ -1,0 +1,10 @@
+Diketahui: 
+Tinggi lubang gelas A= 1000 * 1/2 = 500
+Tinggi lubang gelas B= 700 * 1/2 = 350
+Tinggi lubang gelas C= 300 * 1/2 = 150
+
+Air mengalir dari gelas A sebesar 1000L-500= 500L air menuju ke gelas B, 
+Air mengalir dari gelas B sebesar 500L-350= 150L air menuju ke gelas C,
+Air mengalir dari gelas C sebesar 150L-150= 0L air menuju ke gelas D.
+
+Kesimpulannya, 1000L air yang dituang ke dalam gelas A, tidak akan sampai menuju ke gelas D
