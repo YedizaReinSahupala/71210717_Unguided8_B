@@ -1,0 +1,7 @@
+Diketahui: a=1, n=2000, U2000=2000
+
+Jawab:
+Total seluruhnya= n/2 * (a+U2000)
+Total seluruhnya= 2000/2 * (1+2000)
+Total seluruhnya= 1000 * 2001
+Total seluruhnya= 2001000
